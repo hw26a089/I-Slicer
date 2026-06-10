@@ -1,0 +1,6 @@
+{
+  "name": "I Slicer",
+  "description": "迫り来る食べ物系の敵を「I」のブレードで斬る爽快スライシングアクションゲーム！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
